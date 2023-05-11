@@ -8,4 +8,4 @@ Please refer to the following paper regarding GameQA and the compilation of RUQu
 Njáll Skarphéðinsson, Breki Guðmundsson, Steinar Smári, Marta Kristín Lárusdóttir, Hafsteinn Einarsson, Abuzar Khan, Eric Nyberg, and Hrafn Loftsson. 2023. [GameQA: Gamified Mobile App for Building Multiple-Domain Question-Answering Datasets](https://aclanthology.org/2023.eacl-demo.18.pdf). In *Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics (EACL): System Demonstrations*. Dubrovnik, Croatia.
 
 
-RUQuAD 22.002 is available for download from CLARIN.is as two separate datasets: [RUQuAD-1](http://hdl.handle.net/20.500.12537/310) and [RUQuAD-2](http://hdl.handle.net/20.500.12537/311).
+RUQuAD 22.02 is available for download from CLARIN.is as two separate datasets: [RUQuAD-1](http://hdl.handle.net/20.500.12537/310) and [RUQuAD-2](http://hdl.handle.net/20.500.12537/311).
